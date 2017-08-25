@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/menu/menu_lista_alunos.xml",
+        "source": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/src/main/res/menu/menu_lista_alunos.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/menu/menu_formulario.xml",
+        "source": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/src/main/res/menu/menu_formulario.xml"
+    }
+]

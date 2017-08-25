@@ -34,4 +34,8 @@ public class AlunoPreferences {
         SharedPreferences preferences = getSharedPreferences();
         return preferences.getString(VERSÃO_DO_DADO, "");
     }
+
+    public boolean temVersao() {
+        return !getVersao().isEmpty();
+    }
 }

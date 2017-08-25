@@ -18,9 +18,11 @@ import retrofit2.Response;
 public class AlunoSincronizador {
     private final Context context;
     private EventBus bus = EventBus.getDefault();
+    private AlunoPreferences preferences;
 
     public AlunoSincronizador(Context context) {
         this.context = context;
+        preferences = new AlunoPreferences(context);
     }
 
     public void buscaAlunos() {
@@ -30,8 +32,9 @@ public class AlunoSincronizador {
             public void onResponse(Call<AlunosSync> call, Response<AlunosSync> response) {
                 AlunosSync alunos = response.body();
                 String versao = alunos.getMomentoDaUltimaModificacao();
-
-                AlunoPreferences preferences = new AlunoPreferences(context);
+                if(preferences.temVersao()){
+                    buscaNovos();
+                }
                 preferences.salvarVersao(versao);
 
                 AlunoDAO alunoDAO = new AlunoDAO(context);
@@ -48,5 +51,9 @@ public class AlunoSincronizador {
                 bus.post(new AtualizaListaAlunoEvent());
             }
         });
+    }
+
+    private void buscaNovos() {
+        new RetrofitInializador().getAlunoService().novos();
     }
 }

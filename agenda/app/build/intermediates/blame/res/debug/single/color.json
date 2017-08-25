@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/root/.android/build-cache/59842cf49fd0f8bdcc9c1ba21ee34f1b81cb9ef2/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/4268e8c0c6fd8708a8afba4e1250bcdc3a316370/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/4268e8c0c6fd8708a8afba4e1250bcdc3a316370/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/4268e8c0c6fd8708a8afba4e1250bcdc3a316370/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/root/.android/build-cache/59842cf49fd0f8bdcc9c1ba21ee34f1b81cb9ef2/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/4268e8c0c6fd8708a8afba4e1250bcdc3a316370/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/root/.android/build-cache/fabef58a7589049de33624007f66ba089f03e65a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9e8029f19180ca1f0f63100ec0d3de13c75ef56f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a98bc5aaf80f9a77880e77bd36b77a0b5481253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/89e324026eaea5b4a0e391ad0799f73ac33e1b5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_547043cad29fea7c5909fd631a7ffe872eca2fd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_13598c00796a26d451df45b4ad579a6a6a873dd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_4e20a17ebfe41bde5a423223ac7dff4c6bf4785c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1eff44a2ed7fb62ca622812f57fa43460b0cbcea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80a575ac84da2dafcf86094fb10d8a82b3ab42e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_c02a8ddad5be1017521cf2599fc76d98e6ae3fac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.2/84ffa765dd258dbab8695963c41308b054f3a1cb/jackson-databind-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.7.2_89364bd9ef48951cc14089b445d49176e081de45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.3.0/121335a74bc432ab7a3caa5a84548fc9b5915a54/converter-jackson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="121335a74bc432ab7a3caa5a84548fc9b5915a54">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-jackson-2.3.0_29d465c1c4df44d6f147fa0698ca8dfad4329dec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_75d7e9df513c42eca37520f56c55d61fd8448c17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a4c5d354caed1a554cfd279664bf01790ee45090/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b95438118407880e7eb2adbbc57ccb454848330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9116617146bb46afdd4375068bc32496d50c48ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_737ff0e743cdfd101790bfe920017d1834ee757a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.7.0_2316b512cb7a83b4481ac05ecfb72cbd50b69f84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.2/8b8310381b690e317f5f0574e9b2dd7034778b4c/jackson-core-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.7.2_0574e85875f2f6c78af414d82afd50de8bafbd32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.1/feab46062803513d6a8307c74b0084265855de1a/logging-interceptor-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.8.1_383992c9134ac2411b4ef3dfd02d1f009d65b000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e553f03483e0fda48e526410735147d6a004a292/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccd419999ac9e3ebe984e9940d0b965dcb11564a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57a824d1cd885b33d618a5c11305bd232d6b0d83">
+        <dex dex="/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb5d0b577a9696f3bcbe1e660db1418e9521b9cb/classes.dex" />
+    </item>
+
+</items>

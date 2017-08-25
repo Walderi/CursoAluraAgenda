@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/layout-land/list_item.xml",
+        "source": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/src/main/res/layout-land/list_item.xml"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/layout-land/activity_provas.xml",
+        "source": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/src/main/res/layout-land/activity_provas.xml"
+    }
+]

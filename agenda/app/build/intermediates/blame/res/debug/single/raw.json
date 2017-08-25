@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/root/.android/build-cache/2fa16327bb35a11bac0348ef173a6c14a479b976/output/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/build/intermediates/res/merged/debug/raw/msg.wav",
+        "source": "/home/walderi/Documentos/Curso/android-sync/android-sync/agenda/app/src/main/res/raw/msg.wav"
+    }
+]
